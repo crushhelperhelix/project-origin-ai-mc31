@@ -1,4 +1,4 @@
-# 
+# Nativo Project Origin modelos. Com detecção de objetos e reconhecimento de voz — otimizado para máximo desempenho.
 
 
 
